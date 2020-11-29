@@ -18,7 +18,7 @@ dependencies:
     - pandas
     - ffmpeg
     - imageio
-    - pyqt=4.11.4
+    - pyqt
     - pip:
         - moviepy
         - opencv-python
